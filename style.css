@@ -76,13 +76,12 @@ h1{
     -webkit-border-radius: 12px;
     border-radius: 12px;
     background: #0081a8;
-    border: 2px solid #252525;
+    border: 1px solid #252525;
   }
   
   ::-webkit-scrollbar-thumb:hover{
     border-color: rgb(88, 88, 88);
   }
-
 
   .BH1{
     width: 200px;
